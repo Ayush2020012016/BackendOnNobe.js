@@ -1,0 +1,21 @@
+1. Create the first route working
+    create the story.for the sample user and run that in postman. --done
+    
+    getting the pahr data from the firstendpoint --done
+    create the get route working
+        get the database connectivity working from postman (migration)
+        create the user for the getting all the blogs.
+        get the server running
+
+        
+
+2 Create every route working
+
+errors
+ unauthenticated for the routes --solved
+
+
+ Things I am missing 
+ 1. Authentication phase.
+ 2. getting the seprate uuid for the every user.
+3. how to store password email in knex.
